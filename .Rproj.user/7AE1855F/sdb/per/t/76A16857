@@ -1,0 +1,17 @@
+{
+    "contents" : "x=c(2,3,4)\ny=sample(1:20,3,replace=T)\nz=201\n",
+    "created" : 1437473710892.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "674068831",
+    "id" : "76A16857",
+    "lastKnownWriteTime" : 1437473964,
+    "path" : "~/Documents/JOPK/Internship/Advantech/Projects/R-Projects/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
